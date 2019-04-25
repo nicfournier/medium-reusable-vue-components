@@ -28,4 +28,3 @@ td {
   padding: 8px;
 }
 </style>
-view rawJTableRow.vue hosted with ❤ by GitHub
