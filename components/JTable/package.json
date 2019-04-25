@@ -1,10 +1,10 @@
 {
 	"name": "@nicfournier/j-table",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"publishConfig": {
 		"access": "public"
 	},
 	"dependencies": {
-		"@nicfournier/j-table-row": "^0.0.1"
+		"@nicfournier/j-table-row": "^0.0.2"
 	}
 }
