@@ -9,17 +9,17 @@
 </template>
 
 <script>
-import JTableRow from '../JTableRow/JTableRow'
-export default {
-  name: 'JTable',
-  props: {
-    items: {
-      type: Array,
-      required: true
-    }
-  },
-  components: {
-    JTableRow
-  }
-}
+	import JTableRow from '../JTableRow/JTableRow'
+	export default {
+	name: 'JTable',
+	props: {
+		items: {
+		type: Array,
+		required: true
+		}
+	},
+	components: {
+		JTableRow
+	}
+	}
 </script>
