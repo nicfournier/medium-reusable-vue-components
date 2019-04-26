@@ -12,7 +12,7 @@ storiesOf('JTableRow', module)
     `,
     data: () => ({
       values: [
-        'N F',
+        'Nic Fournier',
         'email@email.com'
       ]
     })
